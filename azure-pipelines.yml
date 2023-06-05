@@ -22,4 +22,4 @@ steps:
     orchestratorConnection: 'Con_Orchest_Devops'
     processName: 'DemoTestSuite'
     folderName: 'TestManagerDEMO'
-    user: 'desktop-nib41d7\ordinateur'
+    user: 'tech\skonate'
